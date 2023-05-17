@@ -3,3 +3,5 @@ env/
 __pycache__/
 .ipynb_checkpoints/
 draft_*
+tmp.py
+.mypy_cache
