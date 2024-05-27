@@ -12,5 +12,9 @@ Implementation and comparsion of some optimization methods:
 
 File: `basic_opt_methods_2.ipynb`
 
-Comparsion of methods: Gradient descent, Adam, RMSProp, Conjugate gradient method
+Comparsion of methods: Gradient descent, Adam, RMSProp, Conjugate gradient method.
 
+
+File: `PSO_pyswarms.ipynb`
+
+PSO example using pyswarms package.
