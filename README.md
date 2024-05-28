@@ -18,3 +18,8 @@ Comparsion of methods: Gradient descent, Adam, RMSProp, Conjugate gradient metho
 File: `PSO_pyswarms.ipynb`
 
 PSO example using pyswarms package.
+
+
+File: `simulated_annealing.ipynb`
+
+Solve traveling salesman problem with simulated annealing algorithm.
